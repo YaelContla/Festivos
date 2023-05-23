@@ -1,0 +1,14 @@
+.btns-flex {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.btn-margin {
+    margin-right: 10px;
+}
+
+.form-flex {
+    display: flex;
+    justify-content: center;
+    align-items: baseline
+}
